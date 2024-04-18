@@ -205,6 +205,9 @@ p{
     margin-left: -70px;
 
 }
+.textDiv p{
+    margin-top: 0px;
+}
 /* .btn-style{
     width: auto;
     height: 20px;
