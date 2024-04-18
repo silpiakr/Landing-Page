@@ -66,3 +66,28 @@ h2{
     font-size: 1rem;
     padding-right: 10px;
 }
+span{
+    color: rgb(2, 146, 146);
+}
+.innerDiv1 p{
+    width: 200px;
+    text-wrap: wrap;
+    padding-left: 0;
+    padding-right: 10px;
+}
+button a{
+    color: #fff;
+    display: inline-block;
+
+}
+h3{
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.innerDiv1 .innerA{
+    text-align: left;
+    margin-left: -100px;
+}
