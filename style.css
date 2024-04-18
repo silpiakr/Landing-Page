@@ -207,6 +207,7 @@ p{
 }
 .textDiv p{
     margin-top: 0px;
+    text-align: left;
 }
 /* .btn-style{
     width: auto;
@@ -220,5 +221,10 @@ p{
 @media (max-width:600px) {
     .top-section{
         background-image: none;
+        height: 120vh;
+        width: auto;
+    }
+    .textDiv p{
+        text-align: left;
     }
 }
