@@ -42,3 +42,27 @@ body{
     line-height: 25px;
     text-align: center;
 }
+.abt-me-2{
+    background-image: linear-gradient(to bottom left, rgb(82, 2, 2), black);
+    height: 640px;
+    box-sizing: border-box;
+    border: 2px solid rgb(45, 1, 1);
+    margin-top: 20px;
+}
+.innerDiv1{
+    display: flex;
+    padding: 10px;
+    text-align: left;
+   
+}
+.innerDiv1 h1{
+    font-size: 1.5rem;
+    padding-right: 15px;
+    line-height: 25px;
+    text-align: left;
+}
+h2{
+    color: #fff;
+    font-size: 1rem;
+    padding-right: 10px;
+}
