@@ -91,3 +91,123 @@ h3{
     text-align: left;
     margin-left: -100px;
 }
+.abt-me-3{
+    background-image: linear-gradient(to bottom left, rgb(82, 2, 2), black);
+    height: 500px;
+    box-sizing: border-box;
+    border: 2px solid rgb(56, 1, 1);
+    border-left: transparent;
+    margin-top: 160px;
+}
+a{
+    text-decoration: none;
+    color: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-brands{
+    box-sizing: border-box;
+    width: 30px;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    transition: .5s;
+}
+.fa-brands:hover{
+    color: rgb(248, 199, 199);
+    border: transparent;
+}
+p{
+    color: #d9d6d6;
+    text-align: justify;
+    font-size: .6rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+.innerDiv2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.inner h2{
+    font-size: 1.2rem;
+    color: #fff;
+    text-align: center;
+}
+.inner p{
+    width: 200px;
+    color: #d9d6d6;
+    text-align: justify;
+    font-size: .5rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+.workMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+}
+.work{
+    width: 80px;
+  
+}
+.work h2{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.work p{
+    margin-top: 0px;
+    text-wrap: wrap;
+    overflow: hidden;
+}
+.workMain2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+.workMain2 p{
+    width: 120px;
+}
+.webPic{
+    display: flex;
+    padding: 5px;
+}
+.imgStyle{
+    margin-top: 117px;
+    padding-left: 10px;
+}
+.textDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+    
+
+}
+.textDiv h2{
+    text-align: left;
+    margin-top: 15px;
+    margin-left: -70px;
+
+}
+/* .btn-style{
+    width: auto;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+    margin-left: 60px;
+} */
