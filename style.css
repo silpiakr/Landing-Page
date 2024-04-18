@@ -18,3 +18,27 @@ body{
 .divTop{
     padding: 20px;
 }
+.top-section h1{
+    color: #fff;
+    text-align: center;
+    font-size:2.5rem;
+    font-weight: 700;
+    line-height: 40px;
+}
+.abt-me-1{
+    background-image: linear-gradient(to bottom left, rgb(82, 2, 2), black);
+    height: 500px;
+    margin-top: 160px;
+    box-sizing: border-box;
+    border: 2px solid rgb(54, 1, 1);
+    border-right: transparent;
+    margin-left: 30px;
+    padding-top: 10px;
+
+}
+.abt-me-1 h1{
+    font-size: 1.5rem;
+    padding-right: 15px;
+    line-height: 25px;
+    text-align: center;
+}
