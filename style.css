@@ -227,7 +227,10 @@ p{
     .textDiv p{
         text-align: left;
     }
-    .abt-me-1{
-        margin-left: 0px;
+    .abt-me-2{
+        margin-left: 30px;
+    }
+    .abt-me-3{
+        margin-left: 30px;
     }
 }
