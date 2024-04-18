@@ -42,6 +42,9 @@ body{
     line-height: 25px;
     text-align: center;
 }
+.imgDiv{
+    display: flex;
+}
 .abt-me-2{
     background-image: linear-gradient(to bottom left, rgb(82, 2, 2), black);
     height: 640px;
